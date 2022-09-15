@@ -14,12 +14,13 @@
 ## Want to learn
 - React.js
 - Typescript
+- Node.js
 
 ## My Projects
 - [UIC group](https://uic.group/) - Company homepage where I am working currently.
 
 ## My Contacts
 - E-mail: [faithpacifica@yahoo.com](mailto:faithpacifica@yahoo.com)
-- Phone: [+998(97)2686030]
+- Phone: [+998(97)2686030](+998(97)2686030)
 - Linkedin: [Dildora Muslimova](https://www.linkedin.com/in/dildora-muslimova-9449941b5/)
 - Discord: [faithpacifica(dildora)#0999](faithpacifica(dildora)#0999)
