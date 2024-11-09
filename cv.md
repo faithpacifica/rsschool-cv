@@ -1,8 +1,8 @@
 
 # Dildora Muslimova
 ## Frontend Developer
-[GitHub](https://github.com/faithpacifica)
-[LinkedIn](https://www.linkedin.com/in/dildora-muslimova-9449941b5/)
+[GitHub](https://github.com/faithpacifica) <br />
+[LinkedIn](https://www.linkedin.com/in/dildora-muslimova-9449941b5/) <br />
 ✉️<faithpacifica@gmail.com>
 
 ---
@@ -69,8 +69,8 @@ Mar 2022 – Nov 2022
 * Technologies Used: Nuxt.js, Vuex, Tailwind CSS
 
 ## Example Project:
-[UIC GROUP WEBSITE](https://uic.group)
-[MOMSCLUB](https://momsclub.uz/)
+[UIC GROUP WEBSITE](https://uic.group)  <br />
+[MOMSCLUB](https://momsclub.uz/)  <br />
 [BIFIDOPRO](https://bifidopro.uz/)
 
 ## Education
