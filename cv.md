@@ -73,5 +73,10 @@ Mar 2022 – Nov 2022
 [MOMSCLUB](https://momsclub.uz/)
 [BIFIDOPRO](https://bifidopro.uz/)
 
+## Education
+Najot Talim IT education center 
+(May 2021 – Feb 2022)
+ (Frontend developer Certificate)
 
 
+My journey in improving my English has been one of dedication and consistent practice. I've actively engaged in language learning through various methods, including daily practice with native speakers, immersive reading, and listening to English media. Over time, I focused on expanding my vocabulary, refining my grammar, and building confidence in both written and spoken communication. This ongoing effort has greatly strengthened my proficiency and has helped me feel more comfortable in professional and collaborative settings.
